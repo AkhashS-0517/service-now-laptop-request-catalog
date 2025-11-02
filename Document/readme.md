@@ -1,1 +1,1 @@
-Document of project
+Document of the project
